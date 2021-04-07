@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Guangyao Li',
+  title: 'GUANGYAO',
   author: 'Guangyao Li',
   email: 'i@craigary.net',
   link: 'https://nobelium.vercel.app',
