@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'GUANGYAO',
   author: 'Guangyao Li',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  email: 'dave_guangyao_li@outlook.com',
+  link: 'https://nobelium-guangyao-dave-li.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
